@@ -1,0 +1,12 @@
+#block2{
+    background-color: #333;
+    width: 100%;
+}
+#town{
+    color: #A07B50; /* Цвет текста */
+    font-weight: 100;
+    font-size:50%;
+}
+#header{
+    text-align: center;
+}
