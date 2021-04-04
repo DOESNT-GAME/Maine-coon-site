@@ -1,12 +1,59 @@
 #block2{
     background-color: #333;
-    width: 100%;
+    width: 105%;
+    margin-top: 60.25%;
+    position: relative;
 }
 #town{
     color: #A07B50; /* Цвет текста */
     font-weight: 100;
-    font-size:50%;
+    font-size:150%;
+    margin-left:50px;
 }
 #header{
     text-align: center;
+    color:white;
+    font-weight: bold;
+    font-size: 300%;
+}
+#head2{
+    color: #ffffff; /* Цвет текста */
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:50px;
+    font-size:350%;
+}
+#block1_2{
+    width: 50%;
+   float: left;
+}
+#block1_3{
+    width: 50%;
+    position:relative;
+    bottom:-50px;
+    float: right;
+}
+#showcats{
+    margin-left:50px;
+    border-radius: 0%;
+    width: 50%;
+    height: 60px;
+    border-color: #A07B50;
+    background-color: black;
+    color:  #A07B50;
+}
+#showcats:active{
+    outline: none;
+}
+#ssylki{
+    margin-left:50px;
+}
+#info{
+    text-align: center;
+    font-size:150%;
+}
+#crown{
+    position: fixed;
+    margin-left:45%;
+    margin-right:45%;
 }
